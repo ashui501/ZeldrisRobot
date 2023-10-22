@@ -190,3 +190,7 @@ anything.
 ```
 Zeldris is part of the [IDNCoder](https://github.com/IDN-C-X) project.
 ```
+heroku deploying 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashui501/ZeldrisRobot"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
